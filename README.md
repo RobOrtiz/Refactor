@@ -21,3 +21,9 @@
 
 ### Cost Managment
 - Costs go down when you search ranking goes up.
+
+#### Screenshot of URL
+/var/folders/4_/8xhz4jx5043fcktttl6rwhtw0000gn/T/TemporaryItems/(A Document Being Saved By screencaptureui)/Screen Shot 2020-10-03 at 9.40.04 PM.png
+
+#### Open Source License link 
+https://opensource.org/licenses/MIT
